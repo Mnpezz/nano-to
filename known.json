@@ -1,4 +1,37 @@
 [
+{
+
+    "name": "mnpezz",
+
+    "status": "active",
+
+    "address": "nano_3urn99zwefm5q8miwqkiypfqx3ikh59ujpiuggewnynoke6eqpntgu78do7j",
+
+    "status": "active",
+
+    "github": "mnpezz",
+
+    "twitter": "mnpezz",
+
+  "freelance": "40 NANO / hr",
+  "website": "https://mnpezz.straw.page",
+  "name_for_sale": 42000,
+
+    "title": "property management and maintenance",
+
+    "calendly": "mnpezz/handyman",
+
+    "calendly_rate": "40",
+
+    "created": "November 10, 2022",
+
+    "expires": "November 10, 2024",
+
+    "created_unix": 1668117803,
+
+    "expires_unix": 1731276180
+
+  },
   {
     "name": "FairKing",
     "address": "nano_1ebeg7sx9q53rbqit6ww3rbhw6ygj5insyxzsonsqhe9jk95u8f68wb6wzrb",
@@ -245,15 +278,7 @@
     "created_unix": 1668230140,
     "expires_unix": 1699766100
   },
-  {
-    "name": "mnpezz",
-    "status": "active",
-    "address": "nano_3urn99zwefm5q8miwqkiypfqx3ikh59ujpiuggewnynoke6eqpntgu78do7j",
-    "created": "November 10, 2022",
-    "expires": "November 10, 2024",
-    "created_unix": 1668117803,
-    "expires_unix": 1731276180
-  },
+
   {
     "name": "avigopal",
     "status": "active",
