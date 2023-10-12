@@ -3,27 +3,23 @@
     "name": "mnpezz",
     "status": "active",
     "address": "nano_3urn99zwefm5q8miwqkiypfqx3ikh59ujpiuggewnynoke6eqpntgu78do7j",
+    "donation_address": "@mnpezz",
     "github": "mnpezz",
-
     "twitter": "mnpezz",
-
+    "mastodon": "xno.social/@mnpezz",
     "freelance": "40 NANO / hr",
     "website": "https://mnpezz.straw.page",
     "name_for_sale": 42000,
-
     "title": "property management and maintenance",
-
     "calendly": "mnpezz/handyman",
-
     "calendly_rate": "40",
-
     "created": "November 10, 2022",
-
     "expires": "November 10, 2024",
-
     "created_unix": 1668117803,
-
-    "expires_unix": 1731276180
+    "expires_unix": 1731276180,
+    "location": "US-Central",
+    "goal_ui": "100:Thank you",
+    "metadata": "Hello World"
 
   },
   {
